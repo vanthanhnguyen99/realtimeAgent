@@ -1,0 +1,6 @@
+chainlit
+openai
+yfinance
+plotly
+azure-identity
+websockets==14.1
